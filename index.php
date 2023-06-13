@@ -188,7 +188,7 @@
 ]
 </script>
 <link rel="canonical" href="https://www.hillspet.cl"/>
-        <link rel="stylesheet" href="/etc/designs/zg/hills-pet/desktop/css.asset.css/core/design.default.bootstrap.v0-0-1.css"/>
+        <link rel="stylesheet" href="https://www.hillspet.co/etc/designs/zg/hills-pet/desktop/css.asset.css/core/design.default.bootstrap.v0-0-1.css"/>
 <!--[if lte IE 6]>
 		<![endif]-->
 	
@@ -196,7 +196,7 @@
 		<![endif]-->
 	
 	<!--[if IE 8]>
-		<link rel="stylesheet" href="/etc/designs/zg/hills-pet/desktop/css.fileAsset.css/zg/basic/desktop/css/utils/ie8.v0-0-1.css" />
+		<link rel="stylesheet" href="https://www.hillspet.co/etc/designs/zg/hills-pet/desktop/css.fileAsset.css/zg/basic/desktop/css/utils/ie8.v0-0-1.css" />
 <![endif]-->
 <link rel="shortcut icon" href="/content/dam/cp-sites/hills/hills-pet/global/general/icons/favicon.ico" type="image/vnd.microsoft.icon"/>
 	<script type="text/javascript" src="/etc/designs/zg/hills-pet/desktop/js.fileAsset.js/zg/basic/desktop/js/head/head.v0-0-1.js"></script>
